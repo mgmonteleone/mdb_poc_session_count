@@ -1,0 +1,4 @@
+pymongo[srv]
+dnspython
+srvlookup
+colorama
